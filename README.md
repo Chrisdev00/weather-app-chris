@@ -3,7 +3,7 @@
 <p id="description">Aplicación meteorológica usando React JS. Aquí obtenemos los datos meteorológicos actuales utilizando API de OpenWeatherMap y mostramos la información meteorológica como temperatura, condiciones meteorológicas, humedad y velocidad del viento según la ciudad en esta aplicación meteorológica.
 En esta aplicación del tiempo, solo necesita ingresar el nombre de la ciudad y obtendrá los datos precisos mediante una API gratuita.</p>
 
-<img src="./assets/preview-1.png"/>  
+<img src="./src/Components/Assets/preview-1.png"/>  
   
 <h2>💻 Built with</h2>
 
