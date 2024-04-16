@@ -1,3 +1,26 @@
+<h1 align="center" id="title">Página de Aplicación meteorológica</h1>
+
+<p id="description">Aplicación meteorológica usando React JS. Aquí obtenemos los datos meteorológicos actuales utilizando API de OpenWeatherMap y mostramos la información meteorológica como temperatura, condiciones meteorológicas, humedad y velocidad del viento según la ciudad en esta aplicación meteorológica.
+En esta aplicación del tiempo, solo necesita ingresar el nombre de la ciudad y obtendrá los datos precisos mediante una API gratuita.</p>
+
+<img src="./assets/preview-1.png"/>  
+  
+<h2>💻 Built with</h2>
+
+Technologies used in the project:
+
+*   React: Estructura básica de la página web y sus componentes con una API gratuita.
+*   HTML: Estructura básica de la página web.
+*   CSS: Estilos para el diseño y la apariencia de la página.
+*   JavaScript: Funcionalidad del control de la condiciones del tiempo.
+
+![Static Badge](https://img.shields.io/badge/React-gray?logo=react&labelColor=e76f51&color=0096c7)
+![Static Badge](https://img.shields.io/badge/JavaScript-gray?logo=javascript)
+![Static Badge](https://img.shields.io/badge/CSS-gray?logo=css3&logoColor=blue)
+![Static Badge](https://img.shields.io/badge/HTML-gray?logo=html5&labelColor=caf0f8&color=0096c7)
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
